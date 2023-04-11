@@ -1,6 +1,10 @@
-File <file7.txt> started at 2023-04-04 18:05:43.948061 and finished 2023-04-04 18:06:25.086098
-Total of domain names for test file file7.txt = 13
-Total of packets :40
+File <file7.txt> started at 2023-04-04 18:05:40.081695 and finished 2023-04-04 18:07:01.343463
+Total of domain names for test file file7.txt = 15
+Total of packets :22881
+Lasted for 1.3543628 minutes
+
+Total volume :18027398.0
+
 
 
 Domain name <us05www3.zoom.us>
@@ -178,28 +182,6 @@ Domain name <us05web.zoom.us>
          A
          AAAA
 
-Types of dns requests for ip adress : 
-     A
-     AAAA
-     A
-     AAAA
-     A
-     A
-     A
-     AAAA
-     AAAA
-     AAAA
-     AAAA
-     A
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-
 
 Total of A = 20
 Total of PTR = 0
@@ -208,45 +190,23 @@ Total of SRV = 0
 Total of HTTPS = 0
 
 
-Ip versions : 
-
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
+Ip destinations
+20.90.153.243
+192.168.129.19
+51.104.30.131
+192.168.129.255
+224.0.0.251
+192.168.128.1
+54.167.72.5
+206.247.71.213
+144.195.91.253
+206.247.70.213
+144.195.90.253
+206.247.71.7
+170.114.15.169
+192.168.1.255
+170.114.11.104
+52.70.60.249
+34.241.180.76
+224.0.0.1
+224.0.0.252

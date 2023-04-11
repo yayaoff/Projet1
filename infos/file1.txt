@@ -1,6 +1,10 @@
-File <file1.txt> started at 2023-04-04 17:49:51.237343 and finished 2023-04-04 17:50:20.264049
-Total of domain names for test file file1.txt = 23
-Total of packets :50
+File <file1.txt> started at 2023-04-04 17:49:50.185311 and finished 2023-04-04 17:50:26.584778
+Total of domain names for test file file1.txt = 25
+Total of packets :278
+Lasted for 0.6066577833333333 minutes
+
+Total volume :77020.0
+
 
 
 Domain name <8.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.f.8.0.c.e.1.0.0.2.6.2.ip6.arpa>
@@ -289,33 +293,6 @@ Domain name <1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6
          PTR
          PTR
 
-Types of dns requests for ip adress : 
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     A
-     AAAA
-     PTR
-     PTR
-     A
-     AAAA
-     PTR
-     PTR
-     A
-     AAAA
-     A
-     AAAA
-     PTR
-     PTR
-     PTR
-
 
 Total of A = 8
 Total of PTR = 34
@@ -324,55 +301,11 @@ Total of SRV = 0
 Total of HTTPS = 0
 
 
-Ip versions : 
-
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
+Ip destinations
+170.114.15.205
+192.168.1.24
+192.168.1.1
+20.90.156.32
+40.79.141.153
+162.159.133.234
+192.168.1.255

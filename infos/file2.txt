@@ -1,6 +1,10 @@
-File <file2.txt> started at 2023-04-04 17:55:06.367788 and finished 2023-04-04 17:57:42.424741
-Total of domain names for test file file2.txt = 53
-Total of packets :154
+File <file2.txt> started at 2023-04-04 17:55:04.908475 and finished 2023-04-04 17:57:51.410346
+Total of domain names for test file file2.txt = 55
+Total of packets :44874
+Lasted for 2.775031183333333 minutes
+
+Total volume :35047382.0
+
 
 
 Domain name <12.1.168.192.in-addr.arpa>
@@ -789,86 +793,6 @@ Domain name <133.152.90.20.in-addr.arpa>
          PTR
          PTR
 
-Types of dns requests for ip adress : 
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     A
-     AAAA
-     A
-     AAAA
-     A
-     A
-     AAAA
-     AAAA
-     AAAA
-     AAAA
-     AAAA
-     A
-     AAAA
-     PTR
-     PTR
-     PTR
-     PTR
-     AAAA
-     A
-     AAAA
-     PTR
-     PTR
-     PTR
-     PTR
-     A
-     AAAA
-     PTR
-     PTR
-     PTR
-     PTR
-     A
-     AAAA
-     AAAA
-     AAAA
-     A
-     AAAA
-     PTR
-     PTR
-     A
-     A
-     AAAA
-     AAAA
-     AAAA
-     AAAA
-     A
-     PTR
-     AAAA
-     AAAA
-     A
-     AAAA
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     PTR
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     PTR
-
 
 Total of A = 36
 Total of PTR = 66
@@ -877,159 +801,30 @@ Total of SRV = 0
 Total of HTTPS = 0
 
 
-Ip versions : 
-
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
+Ip destinations
+170.114.15.205
+192.168.1.24
+192.168.1.1
+162.159.133.234
+144.195.11.254
+144.195.5.254
+206.247.57.253
+206.247.56.253
+206.247.59.80
+20.90.156.32
+224.0.0.251
+255.255.255.255
+170.114.10.7
+170.114.59.10
+192.168.1.255
+40.79.141.153
+170.114.11.104
+206.247.138.213
+206.247.139.213
+206.247.153.179
+224.0.0.1
+224.0.0.252
+170.114.10.6
+134.224.66.185
+192.168.129.19
+20.90.152.133

@@ -1,6 +1,10 @@
-File <file6.txt> started at 2023-04-04 18:01:59.760233 and finished 2023-04-04 18:02:34.313651
-Total of domain names for test file file6.txt = 17
-Total of packets :64
+File <file6.txt> started at 2023-04-04 18:01:56.693173 and finished 2023-04-04 18:03:34.905484
+Total of domain names for test file file6.txt = 19
+Total of packets :26026
+Lasted for 1.63687185 minutes
+
+Total volume :20929488.0
+
 
 
 Domain name <us04xmppapi.zoom.us>
@@ -262,40 +266,6 @@ Domain name <a-ring-fallback.msedge.net>
          A
          AAAA
 
-Types of dns requests for ip adress : 
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     A
-     A
-     AAAA
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-     AAAA
-     AAAA
-     A
-     AAAA
-     AAAA
-     AAAA
-     AAAA
-     A
-     AAAA
-     AAAA
-     A
-     AAAA
-     A
-     AAAA
-
 
 Total of A = 26
 Total of PTR = 0
@@ -304,69 +274,26 @@ Total of SRV = 0
 Total of HTTPS = 0
 
 
-Ip versions : 
-
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
+Ip destinations
+20.90.153.243
+192.168.129.19
+192.168.129.255
+224.0.0.251
+192.168.1.255
+54.167.72.5
+170.114.15.169
+170.114.59.10
+192.168.128.1
+206.247.56.253
+206.247.57.253
+224.0.0.252
+206.247.60.122
+104.18.1.181
+170.114.11.105
+52.70.60.249
+34.241.180.76
+224.0.0.1
+204.79.197.222
+204.79.197.203
+81.243.1.240
+51.104.30.131
