@@ -62,7 +62,7 @@ def get_infos(file_capture):
             d['Ip versions'].append(pckt['IP'].version)
         
         tot_packets += 1
-        tot_duration += float(pckt.frame_info.time_relative)
+        tot_duration += float(pckt.captured_length)
         tot_length += float(pckt.length)
     
     d['tot'] = tot_packets
